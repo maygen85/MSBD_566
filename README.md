@@ -34,6 +34,8 @@ The assignment demonstrates data exploration and analysis of **Nashville’s Air
 
 ---
 
+Last update September 18, 2025 by Megan Leak 
+
 ## 🛠️ Technologies Used
 - Python (Pandas, Matplotlib/Seaborn for visualization)
 - Git and GitHub for version control
